@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "955713081664",
+    "project_id": "chattingappflutter-f2659",
+    "storage_bucket": "chattingappflutter-f2659.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955713081664:android:c5717a25e3b9a57d7caaa5",
+        "android_client_info": {
+          "package_name": "com.seungmin.chatting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-BQfyxoKUyUwIPUxlE7tDekVuEuRLqn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
